@@ -1,0 +1,121 @@
+/* START ------------------------ of Home page ------------------------ */
+/* START : Testing */
+.myrows{
+    border: 3px solid green;
+    pad: 5px;
+}
+.mycols{
+    border: 3px solid red;
+}
+.mycontainer{
+    background-color: aqua;
+}
+/* END : Testing */
+
+/* START : Header */
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
+}
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+nav ul li a {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/* End : Header */
+/* START : Footer */
+.bottom-footer{
+    color:#2c3e50;
+}
+.bottom-footer p{
+    color:white;
+}
+.top-footer p{
+    color:white;
+}
+.top-footer a{
+    color:white;
+}
+.top-footer h3{
+    color:white;
+}
+/* END : Footer */
+
+/* Start : Home page first hero section */
+.top-hero-section{
+    background-color: #3498db;
+    color: white;
+}
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+.qualities-img{
+    width: 200px;
+}
+/* END : Home page first hero section */
+
+/* START : Home page 3rd requirement section */
+.requirements-section{
+    background-color: #004d80;
+    color: white;
+}
+/* END : Home page 3rd requirement section */
+
+/* START : Home page 4th newsltter section */
+.home-newsletter{
+    background-color: #004d80;
+    color: white;
+}
+
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: #243c4f;
+    color: #fff;
+}
+/* END : Home page 4th newsletter section */
+
+/* START : Clients section */
+.clients-section{
+    background-color: #f0f0f0;
+}
+/* END : Clients section */
+/* END ------------------------ of Home page ------------------------ */
+
+/* START ------------------------ of About us page ------------------------ */
+/* START : Breadcrumbs Section*/
+.breadcrumbs-section{
+    background-color: #e9ecef;
+}
+/* END : Breadcrumbs Section*/
+/* END ------------------------ of About us page ------------------------ */
+
+/* START ------------------------ of Contact us page ------------------------ */
+.address p{
+    font-weight: 600;
+}
+/* END ------------------------ of Contact us page ------------------------ */
+
+/* Start ------------------------ of WebDesigning page ------------------------ */
+.bar{
+    color: white;
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-radius: 17px;
+    border: 2px solid slategray;
+}
+/* END ------------------------ of WebDesigning page ------------------------ */
